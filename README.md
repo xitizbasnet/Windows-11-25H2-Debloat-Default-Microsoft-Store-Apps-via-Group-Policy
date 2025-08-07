@@ -1,11 +1,5 @@
 # 📦 Windows 11 25H2: Debloat Default Microsoft Store Apps via Group Policy
 
-> **Author:** Xitiz Basnet  
-> **Audience:** Beginner System Administrators, IT Professionals  
-> **Compatible with:** Windows 11 25H2 (Pro and higher editions only)
-
----
-
 ## 📝 Overview
 
 Windows 11 version 25H2 introduces a new **Group Policy** setting that allows system administrators to **debloat** the OS by automatically **removing default Microsoft Store apps** during new user account creation.
