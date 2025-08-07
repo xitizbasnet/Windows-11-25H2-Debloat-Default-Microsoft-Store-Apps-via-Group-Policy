@@ -57,9 +57,7 @@ The following 25 inbox apps can be uninstalled using this policy:
 1. Press `Win + S` and search for: **Edit Group Policy**  
 2. Navigate to the following path:  
 ```
-
 Computer Configuration > Administrative Templates > Windows Components > App Package Deployment
-
 ```
 3. Locate the policy:
 
@@ -83,9 +81,7 @@ Remove Default Microsoft Store packages from the system
 After enabling the policy, the system creates a registry key:
 
 ```
-
 HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Appx\RemoveDefaultMicrosoftStorePackages
-
 ```
 
 You’ll see entries for each app, for example:
